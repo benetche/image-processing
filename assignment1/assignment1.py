@@ -1,7 +1,3 @@
-# Vitor Beneti Martins - 11877635
-# SCC0251 - 2023.1
-# Assignment: enhancement and superresolution
-
 import imageio
 import numpy as np
 
